@@ -55,17 +55,45 @@ function Body(){
                     </div>
                 
                 </div>
-                <div className="mr-40 flex gap-9">
+                <div className="mr-40 flex gap-9 mb-37">
                     <div>
                         <img src="https://static.uacdn.net/web-cms/dailyliveclasses_0c0023950f_c187155ee3.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                        <h1 className=" mt-8 mb-3 font-medium text-[24px]">Daily live classes</h1>
+                        <h1>Chat with educators, ask questions, answer </h1>
+                        <h1>live polls, and get your doubts cleared - all </h1>
+                        <h1>while the class is going on</h1>
                     </div>
                     <div>
                         <img src="https://static.uacdn.net/web-cms/syllabus_a9da21d824_b20b285483.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                        <h1 className=" mt-8 mb-3 font-medium text-[24px]">Practice and revise</h1>
+                        <h1>Learning isn't just limited to classes with our</h1>
+                        <h1>practice section, mock tests and lecture notes</h1>
+                        <h1>shared as PDFs for your revision</h1>
                     </div>
                     <div>
                         <img src="https://static.uacdn.net/web-cms/learnanytimeanywhere_cb19d5de30_b92bc0c6a1.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                        <h1 className=" mt-8 mb-3 font-medium text-[24px]">Learn anytime, anywhere</h1>
+                        <h1>One subscription gets you access to all our</h1>
+                        <h1>live and recorded classes to watch from the</h1>
+                        <h1>comfort of any of your devices</h1>
                     </div>
                 </div>
+                <div className="mr-40 pt-17  flex mb-50 shadow-xl rounded-2xl">
+                    <div className="w-1/2 ">
+                        <h1 className="ml-30 mt-10 font-bold text-gray-700 text-[37px]">Get the learning</h1>
+                        <h1 className=" ml-30 font-bold text-gray-700 text-[37px]">app</h1>
+                        <h1 className="ml-30 mt-6 text-[20px]">Download lessons and learn anytime,</h1>
+                        <h1 className="ml-30 text-[20px]">anywhere with the Unacademy app</h1>
+                        <div className=" ml-30 mt-10 flex gap-6">
+                            <button><img className="h-12" src="https://static.uacdn.net/production/_next/static/images/app_store.png?q=75&auto=format%2Ccompress&w=256" alt="" /></button>
+                            <button><img className="h-12" src="https://static.uacdn.net/production/_next/static/images/play_store.png?q=75&auto=format%2Ccompress&w=256" alt="" /></button>
+                        </div>
+                    </div>
+                    <div className="w-1/2">
+                        <img className="h-100" src="https://static.uacdn.net/production/_next/static/images/newApp.png?q=75&auto=format%2Ccompress&w=828" alt="" />
+                    </div>
+                </div>
+                
             </div>
             
         </div>
