@@ -24,18 +24,50 @@ function Body(){
                     <h1 className="mt-9 text-gray-700 font-bold text-3xl">Popular Goals</h1>
                 </div>
                 <div className="mt-9 flex gap-6">
-                    <button className="px-18 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/upsc.svg?q=75&auto=format%2Ccompress&w=256" alt="" />UPSC CSE - GS</button>  
-                    <button className="px-22 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/iit_jee.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> IIT JEE</button> 
-                    <button className="px-22 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/neet_ug.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> NEET UG</button> 
-                    <button className="px-22 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/bank_exams.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> Bank exams</button> 
+                    <button className="px-18 py-25 border text-[20px] font-medium rounded-[12px] shadow-md shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/upsc.svg?q=75&auto=format%2Ccompress&w=256" alt="" />UPSC CSE - GS</button>  
+                    <button className="px-22 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/iit_jee.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> IIT JEE</button> 
+                    <button className="px-22 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/neet_ug.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> NEET UG</button> 
+                    <button className="px-22 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/bank_exams.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> Bank exams</button> 
                 </div>
                 <div className=" mt-5 flex gap-6">
-                    <button className="px-11 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/ssc.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> SSC JE & state AE exams</button> 
-                    <button className="px-21 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/cat.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CAT & MBA </button> 
-                    <button className="px-22 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/class_12.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CBSE class 12</button> 
-                    <button className="px-19 py-25 border rounded-[12px] shadow-md"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/ca.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CA Intermediate</button> 
+                    <button className="px-21 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img className="" src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/ssc.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> SSC JE exam</button> 
+                    <button className="px-21 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/cat.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CAT & MBA </button> 
+                    <button className="px-20 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/class_12.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CBSE class 12</button> 
+                    <button className="px-16 py-25 border text-[20px] font-medium rounded-[12px] shadow-md  shadow-gray-400 hover:shadow-xl"><img src="https://static.uacdn.net/production/_next/static/images/home/goalIcons/ca.svg?q=75&auto=format%2Ccompress&w=256" alt="" /> CA Intermediate</button> 
+                </div>
+                <div className="mt-49 rounded-xl h-80 overflow-hidden mb-30 mr-40 shadow-2xl flex">
+                    <div className="w-2/5 pl-6  flex items-center">
+                         <img className="h-70 " src="https://static.uacdn.net/web-cms/stores2_Batch_22396665d0.png?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                    </div>
+                    <div className="w-3/5  ">
+                        <div className="pl-15 ">
+                            <h1 className="mb-3 mt-3 flex text-blue-500 font-medium text-[18px]">INTRODUCING <img className="h-4" src="https://static.uacdn.net/ocx/centrePromotionCard/star.png?q=75&auto=format%2Ccompress&w=1920" alt="" /></h1>
+                             <h1 className="font-bold text-gray-700 text-3xl">Unacademy Centres for IIT</h1>
+                             <h1 className=" mb-3 font-bold text-gray-700 text-3xl"> JEE and NEET UG</h1>
+                             <h2 className=" text-gray-400 text-[18px]">Admissions open in Kota, Delhi, Chandigarh,</h2>
+                            <h2 className="mb-4 text-gray-400 text-[18px]">Sikar, Indore and 20+ other cities!</h2>
+                        
+                            <h2 className="mb-3 flex"><img src="https://static.uacdn.net/production/_next/static/images/offline-centres/checked.svg?q=75&auto=format%2Ccompress&w=48" alt="" />Learn from top educators in your city</h2>
+                            <h2 className="mb-3 flex"><img src="https://static.uacdn.net/production/_next/static/images/offline-centres/checked.svg?q=75&auto=format%2Ccompress&w=48" alt="" />In-person classes & doubt solving</h2>
+                            <h2 className="mb-3 flex"><img src="https://static.uacdn.net/production/_next/static/images/offline-centres/checked.svg?q=75&auto=format%2Ccompress&w=48" alt="" />Bonus access to online learning</h2>
+                        </div> 
+                        
+                    </div>
+                
+                </div>
+                <div className="mr-40 flex gap-9">
+                    <div>
+                        <img src="https://static.uacdn.net/web-cms/dailyliveclasses_0c0023950f_c187155ee3.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://static.uacdn.net/web-cms/syllabus_a9da21d824_b20b285483.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://static.uacdn.net/web-cms/learnanytimeanywhere_cb19d5de30_b92bc0c6a1.svg?q=75&auto=format%2Ccompress&w=1920" alt="" />
+                    </div>
                 </div>
             </div>
+            
         </div>
     )
 }
