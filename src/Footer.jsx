@@ -4,7 +4,7 @@ function Footer(){
 
 
     return(
-        <div className="ml-45 mt-15 mb-15">
+        <div className="ml-45 mt-25 mb-15">
             <div className="flex">
                 <div className="w-2/5 pl-4">
                     <img className="h-[27px]" src="https://unacademy.com/static/images/logo.svg" alt="" />
